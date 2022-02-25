@@ -1,4 +1,4 @@
-const x = ' ';
+const x = null;
 
 if (x) {
     console.log('condition is true');
